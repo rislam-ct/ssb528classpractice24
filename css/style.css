@@ -1,0 +1,172 @@
+/*Fonts*/
+@font-face {font-family: Lato-Bold;
+	src: url(../fonts/Lato/Lato-Bold.ttf);}
+@font-face {font-family: Lato-Medium;
+	src: url(../fonts/Lato/Lato-Medium.ttf);}
+@font-face {font-family: Lato-Regular;
+	src: url(../fonts/Lato/Lato-Regular.ttf);}
+@font-face {font-family: Lato-Semibold;
+	src: url(../fonts/Lato/Lato-Semibold.ttf);}
+@font-face {font-family: Roboto-Regular;
+	src: url(../fonts/Roboto/Roboto-Regular.ttf);}
+@font-face {font-family: Roboto-Medium;
+	src: url(../fonts/Roboto/Roboto-Medium.ttf);}
+
+/*Common Start*/
+body {font-family: 'Roboto-Regular', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #8e8e8e;}
+.cmn_padding {padding: 0 100px;}
+.cmn_titel {}
+.cmn_shape {margin-bottom: 25px !important;
+	width: 3px;
+	height: 50px;
+	background-color: #333333;}
+.cmn_h1 {color: #333333;}
+.cmn_section_padding {padding-bottom: 90px;}
+/*Common End*/
+
+/*Header Start*/
+header {padding: 25px 0;}
+.c_nav {}
+.logo {font-family: 'Lato-Medium', sans-serif;
+	font-size: 30px;
+	font-weight: 500;
+	color: #333333;}
+.logo h1{}
+.menu ul li a {font-family: 'Lato-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #8e8e8e;
+	padding: 0 30px !important;}
+.menu ul li a:hover {color: #333333 !important;}
+.btn_search {padding-right: 0;
+	border: none;}
+.btn_search i {color: #8e8e8e;}
+.btn_search:after {display: none;}
+.cstm_drop_menu {width: 400px;
+    padding: 5px 7px;
+    border-radius: 0;}
+.cstm_drop_menu[data-bs-popper] {
+    top: 73px;
+    left: -370px;}
+.search_input {
+	width: 100%;
+	height: 40px;
+	border: 0;}
+.search_input:focus {box-shadow: none;}
+.search_btn {width: 100%;
+	height: 40px;
+	border: 0;
+	background: transparent;}
+/*Header End*/
+/*Slider Section Start*/
+.slider {background-image:url(../images/slider.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;}
+.singel_item {margin: 215px 0 200px;
+	color: white;}
+.singel_item h1 {font-family: 'Lato-Bold', sans-serif;
+    font-size: 60px;
+    font-weight: 700;}
+.singel_item p {padding: 50px 0 55px;}
+.slider_btn {padding: 15px 30px;
+    background-color: white;
+    border-radius: 0;}
+.slider_btn:hover {background-color: #333333;}
+.singel_item a {font-family: 'Roboto-Medium', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+	}
+.singel_item a span {padding-left: 25px;}
+.pre_nxt_btn {color: #8e8e8e;
+	border: 0;
+	background: transparent;}
+.pre_nxt_btn:hover {font-weight: 600;
+	color: #333333;}
+.span_ctrl_m { font-family: Lato-Semibold;
+	font-size: 16px;
+    font-weight: 500;
+color: black;}
+/*Slider Section End*/
+/*Welcome Start*/
+.welcome {}
+.welcome_p {padding-top: 50px;}
+.welcome_item {margin-top: 100px;
+	padding: 60px 10px 35px;
+	border: 2px solid #8e8e8e;}
+.welcome_item:hover {border: 2px solid #333333;}
+.welcome_item:hover .welcome_icon i {color: #333333;}
+.welcome_item:hover .welcom_btn {color: #333333;}
+.welcome_icon {width: 70px; 
+	margin: -81.5px auto 35px;
+background-color: white;}
+.welcome_icon i {font-size: 60px;
+	color: #8e8e8e;}
+.welcome_item_h2 {padding-bottom:20px;
+color: #333333;}
+.welcome_shape {width: 50px;
+	height: 1px;
+	background-color: #8e8e8e;}
+.welcome_item_p {padding: 20px 0 40px;}
+.welcom_btn {color: #8e8e8e;}
+.welcom_btn span {padding-left: 20px;}
+/*Welcome End*/
+/*About Start*/
+.about {}
+.about_img {padding-top: 10px !important;}
+.about_img img {}
+.about_h1 {color: #333333;}
+.about_p {padding: 40px 0;
+	text-align: justify;}
+.about_btn {padding: 10px 25px;
+	font-family: 'Roboto-Medium', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #8e8e8e;
+	border: 1px solid #8e8e8e;
+	border-radius: 0;}
+.about_btn:hover {border: 1px solid #333333;
+	color: #333333;}
+.about_btn span {padding-left: 25px;}
+/*About End*/
+/*Recent Start*/
+.recent {}
+
+
+/*Recent End*/
+
+/*Why Choose Nipro Start*/
+.why {}
+
+
+/*Why Choose Nipro End*/
+
+/*Whow Work With Us Start*/
+.WithUs {}
+
+
+/*Whow Work With Us End*/
+
+/*Best Pricing Start*/
+.pricing {}
+
+
+/*Best Pricing End*/
+
+/*Start*/
+/*End*/
+
+/*Start*/
+/*End*/
+
+/*Start*/
+/*End*/
+
+/*Start*/
+/*End*/
+
+/*Start*/
+/*End*/
